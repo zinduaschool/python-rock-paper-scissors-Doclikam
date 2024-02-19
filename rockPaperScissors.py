@@ -1,9 +1,11 @@
 # rock-paper-scissor game
+print('Hello.welcome to rock-paper-scissors.goodluck!')
+print('                                                               ')
+
 import random
 
 
 # assigning variables
-
 options=('rock','paper','scissors')
 player_score=0
 cpu_score=0
