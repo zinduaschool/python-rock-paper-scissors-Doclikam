@@ -1,6 +1,6 @@
 # rock-paper-scissor game
 print('Hello.welcome to rock-paper-scissors.goodluck!')
-print(' ')                                                             ')
+print(' ')                                                             
 
 #this module will select a random choice between rock paper and scissors
 import random
